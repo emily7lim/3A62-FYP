@@ -13,7 +13,7 @@ Getting Started
 
     python -m venv env
 
-- Execution Error
+- if Execution Error during starting of env
 
     run get-ExecutionPolicy to check if it is restricted
     run Set-ExecutionPolicy Unrestricted -Scope Process
