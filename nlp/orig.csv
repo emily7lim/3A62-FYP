@@ -1,0 +1,1086 @@
+label,question
+payment_freq,help me check what is my payment frequency
+payment_freq,help me check the frequency of my payment
+payment_freq,how frequent do I have to pay
+payment_freq,do I make payment consistently
+payment_freq,do I have to make payment consistenely
+payment_freq,how consistently do I have to make my payments
+payment_freq,how consistently do I have to make payments
+payment_freq,how frequently do I have to make payment for the plans that I bought
+payment_freq,how frequently do I need to make payment for the plans I bought
+payment_freq,"for the insurance that I bought, how freqeuntly do I have to pay"
+payment_freq,what is my payment frequency for the plans that I bought
+payment_freq,what is my freqeuncy of payment for the insurance
+payment_freq,"for the insurance, how frequent do I have to pay"
+payment_freq,"for the plans, how frequently do I have to pay"
+payment_freq,what is the payment frequency for the plans
+payment_freq,what is the payment frequency
+payment_freq,what is the payment frequency that I have to pay
+payment_freq,the payment frequency is what
+payment_freq,the payment frequency?
+payment_freq,payment freq?
+payment_freq,payment frequency?
+payment_freq,just tell me the payment frequency
+payment_freq,what are the number of times I have to pay
+payment_freq,required no of times to pay in a year
+payment_freq,required number of times to pay in a year
+payment_freq,required times I have to pay per year
+payment_freq,per year or monthly
+payment_freq,pamyent freq where to find this information
+payment_freq,how to find information about the payment frequency
+payment_freq,how to find how many times I have to pay for the payment of my insurance
+payment_freq,isit monthly payment
+payment_freq,is it yearly payment
+payment_freq,is the payment yearly or monthly
+payment_freq,the payment yearly or what
+payment_freq,monthly payment or year
+payment_freq,then the payment is how frequeny
+payment_freq,frequency of payment
+payment_freq,what's the frequency of payment
+payment_freq,what's the payment frequency like
+payment_freq,what is the payment frequency going to be like
+payment_freq,how many times do I need to pay per year
+payment_freq,"per year, what is the required no of times I have to pay"
+payment_freq,per year or per month
+payment_freq,"per year, how many times do I need to pay"
+payment_freq,is the payment annually or fortnightly
+payment_freq,is there any annual payment or monthly
+payment_freq,is the payment annual
+payment_freq,is the payment annually?
+payment_freq,is my payment annualy
+payment_freq,do I have to pay annually
+payment_freq,the payment for the insurance isit annual
+payment_freq,frequency of payment is what
+payment_freq,what's the freq of payment
+payment_mode,which kind of payment am I using
+payment_mode,the payment method
+payment_mode,say payment method
+payment_mode,tell me payment method
+payment_mode,the method of paying
+payment_mode,what method of payment I use
+payment_mode,what option I use to pay  for my product
+payment_mode,which payment method 
+payment_mode,what option did I say I was using
+payment_mode,what option did I decided to use
+payment_mode,what kind of payment method did I utilise
+payment_mode,what did I decide to use to pay
+payment_mode,what kind of payment am I doing
+payment_mode,was the option selected giro when I want to pay
+payment_mode,during paying was it a giro deduction
+payment_mode,do I use cash to pay my insurance
+payment_mode,"for the plans, did I use cash to pay"
+payment_mode,what was the option that I decided upon to pay
+payment_mode,"for the paying method, which option did I decide upon"
+payment_mode,"for the payment method, did I use cash or giro"
+payment_mode,other method used to pay my insurance
+payment_mode,the way I use to pay my insurance
+payment_mode,the way I use to pay for my plans
+payment_mode,what option I choose to pay my plans
+payment_mode,the option selected to pay the insurance fee
+payment_mode,fee to pay insurace was using giro isit
+payment_mode,was the payment method giro or cash
+payment_mode,the payment for insurance is what
+payment_mode,the payment method for insurance is which one
+payment_mode,payment technique can tell me which oen I use
+payment_mode,which one did I use for the payment method
+payment_mode,do you know what is the payment mode I used to pay?
+payment_mode,what can you tell me about the payment mode I used
+payment_mode,what kind of method was used to pay
+payment_mode,the payment mode is which one
+payment_mode,paid by cash
+payment_mode,giro payment?
+payment_mode,cash payment?
+payment_mode,card payment?
+payment_mode,how did I pay?
+payment_mode,what mode of pay I used
+payment_mode,which mode of paying I use
+payment_mode,what kind of payment mode I used
+payment_mode,what kind of paying system was used
+payment_mode,did I use giro to pay my fees
+payment_mode,what kind of payment method was it
+payment_mode,did I use some giro payment
+payment_mode,did I pay by cash or something else
+payment_mode,was the payment mode I chose giro
+payment_mode,did I choose some giro payment
+payment_mode,hi bot what payment method did I use
+payment_mode,hey bot which method did I use to pay
+insurer,which insurance company
+insurer,name of the company
+insurer,name of the insurance's company
+insurer,what is the name of the company that I bought my insurance from
+insurer,what's the name of the company that I bought my insurance from
+insurer,the insurance is buy from which company
+insurer,the inusrance is by which company
+insurer,the insurance is by which company
+insurer,insurer name 
+insurer,my product's insurer
+insurer,my plan's insurer
+insurer,insurer
+insurer,say insurer
+insurer,tell me my insurer of the plans that I bought
+insurer,tell me the insurer of the products
+insurer,tell me the insurer of my products
+insurer,tell me the insurer of my insurance plans
+insurer,the plans I buy from where
+insurer,the comapyn name of the insurance
+insurer,the insruance the company name
+insurer,would you tell me what is the insurer name
+insurer,could u tell me what is the insurer
+insurer,could you tell me who is my insurer
+insurer,who is my insurer tell me
+insurer,say the insurer name of my plans
+insurer,company name of the insurance
+insurer,is my insurance from aviva
+insurer,company of my insurance
+insurer,company that I bought my products from
+insurer,the name of the insurer of my products
+insurer,the name of my insurer
+insurer,the name of the insurer that I buy from
+insurer,which company did I actuallly buy my products from
+insurer,I buy from which company
+insurer,who is my insurer
+insurer,who is the insurer
+insurer,the company of the plans
+insurer,the insurance product come from where
+insurer,the insurance company name
+insurer,tell me the insurace company nmae
+insurer,what is the name of the insurer
+insurer,what is the ame of the company that  I bought from
+insurer,my plans from which company
+insurer,the name of company
+insurer,namme of the company of my products
+insurer,name of the company of my insurace
+insurer,the name of company?
+insurer,what's the name of the insurer
+insurer,what's the insurer
+insurer,who's the insurer
+insurer,who is the insurer name
+insurer,insurer name is hwat
+insurer,how to know which is my insurer
+insurer,who is the insurer protectign me
+insurer,who did I buy my plans from
+product_name,name of insurance that I buy
+product_name,name of the plans that was bought
+product_name,name of the insurance plan that I buy
+product_name,name of the product I bought
+product_name,name of the insruance
+product_name,name of the insurance
+product_name,name of the insurance that I buy
+product_name,what is the insurance name?
+product_name,what is the name of the insurance?
+product_name,say the names of the insurance that bought
+product_name,what are the insurances that I buy
+product_name,which insurance did I buy
+product_name,which plans did I buy
+product_name,which plan did I buy from axa
+product_name,which product did I buy
+product_name,which plan did I purchase
+product_name,which insurance did I purchase
+product_name,what insurance did I purchase
+product_name,the name of the insurance that I bought
+product_name,the name of the plans that I buy
+product_name,tell me the name of the plan I bought
+product_name,tell me the product name
+product_name,name of the plans that were bought
+product_name,what are the products that I have
+product_name,what are the products I have?
+product_name,what name of the products I have
+product_name,names of the products
+product_name,my products
+product_name,tell me my products that I buy
+product_name,what is the plan that Is protecting me right now
+product_name,product name is what for the insurance that I bought
+product_name,the product name of the insurance where to find
+product_name,where to find the product name of the insurance
+product_name,what insurance do I have
+product_name,what's the plan name that I bought
+product_name,what Is the plan that I bought
+product_name,which plan I buy
+product_name,which product did I buy from aviva
+product_name,what product name
+product_name,what is the insurance name
+product_name,what is the name of my insurance
+product_name,what is the name of yhe plans that I bought
+product_name,what is the name of the plan that I pruchased
+product_name,I buy which plan
+product_name,which plan did I buy
+product_name,what is the plan name
+product_name,what is my insurance name
+product_name,what is yhe name of the insurance that I buy
+product_name,purchased which insurance
+product_name,hello there i very good how are you i want to know my product name
+product_name,hello there i very good. how are you? i want to know my product name
+product_name,tell me the plans of the products that I purchased
+product_name,product name
+payout_freq,is my pay out for life
+payout_freq,payout hoe many times to me
+payout_freq,how many times will my pay out be
+payout_freq,what is the payout freq
+payout_freq,usually when will have payout
+payout_freq,what is the payout frequency
+payout_freq,frequency of the payouts
+payout_freq,frequency of the pay out
+payout_freq,frequency of the pay outs
+payout_freq,what is the frequency of payout
+payout_freq,what is the frequency of the pay out
+payout_freq,what frequency will the payouts be paid
+payout_freq,what frequency will u be paying me
+payout_freq,what frequency is the payout supposed to be
+payout_freq,what frequency will the payouts be
+payout_freq,the frequency of the payouts
+payout_freq,tell me the payout frequency
+payout_freq,tell me the pay out frequency say the frequency of my payout
+payout_freq,tell me the frequency of the payouts
+payout_freq,tell me what the frequency of the payout is
+payout_freq,what is the payout frequency?
+payout_freq,what payout frequency do I receive
+payout_freq,the frequency of my payouts
+payout_freq,when will I get paid after I claim
+payout_freq,after claiming when will I get paid
+payout_freq,when would I get my payment
+payout_freq,when will I get paid by the insurance
+payout_freq,when will my plans pay me
+payout_freq,"after I claim, when will I get paid"
+payout_freq,"after claiming, when will I be getting paid"
+payout_freq,payout freq where to check for it?
+payout_freq,I want to know what is the payout frequency I will be receiving
+payout_freq,where can I find the information for the payout frequency?
+payout_freq,when wil I get paid after claiming
+payout_freq,when would I get paid from the insurance
+payout_freq,when is the insurance going to pay me
+payout_freq,what insurance payout frequency are you paying me
+payout_freq,frequency of the payouts that I have
+payout_freq,frequency of pay outs that is paying me
+payout_freq,frequency of my pay out
+payout_freq,times of payout paying me
+payout_freq,times of the payout
+payout_freq,number of times insurance paying me
+payout_freq,times of the insurance plan paying me in a year
+payout_freq,the number of times your insurance paying me
+payout_freq,the number of times the insurance is paying me
+payout_freq,the number of times insurance will pay me
+payout_freq,the number of times insurance is paying me
+payout_freq,the number of times the payout pay me
+payout_freq,the no of times I get the payout
+payout_freq,number of times payout is given to me
+payout_freq,no of times payout give to me
+payout_freq,times of payout in a year
+coverage_term,the insurance going to cover me until when
+coverage_term,the last date that my insurance is going to protect me
+coverage_term,what is the start date that I can get covered
+coverage_term,wat is the date of my insurance covering me
+coverage_term,when will I be covered by the insurance
+coverage_term,what is the duration that I will get covered
+coverage_term,duration of covering me
+coverage_term,start date of coverage
+coverage_term,coverage term is what
+coverage_term,how long am I covered
+coverage_term,how long is the term of my insruance
+coverage_term,duration of my insurance covering me
+coverage_term,duration of insurance
+coverage_term,when will it stop covering me
+coverage_term,when will the insurance stop covering
+coverage_term,is the person assured by my insurance going to be covered for a lifetime
+coverage_term,will I get covered by a lifetime 
+coverage_term,would I get covered till I die
+coverage_term,is the coverage term till I die
+coverage_term,will the coverage term be forever
+coverage_term,is my coverage term forever
+coverage_term,is the duration forever
+coverage_term,whr will my coverage term end
+coverage_term,when will the duration of covering me stop
+coverage_term,what is the duraiton of the plan
+coverage_term,hello bot what is the coverage term of my plans
+coverage_term,hi bot what is the duration I am getting covered
+coverage_term,hey there what is the length of coverage
+coverage_term,hello what is the duration of protection I am getting from the insurance
+coverage_term,hi there what is the length of protection I am getting
+coverage_term,how long is the protection going to be my friend
+coverage_term,hey friend how long is the coverage term?
+coverage_term,duration that my plan is covering me
+coverage_term,my insurance can cover me for how long?
+coverage_term,hwo long can the insruance cover me?
+coverage_term,how loing is the coverge term going to last?
+coverage_term,duration that my insurance is covering
+coverage_term,length of coverage
+coverage_term,duration of coverage is what
+coverage_term,what is the duration of coverage
+coverage_term,what's the duration of coverage
+coverage_term,what is the end date
+coverage_term,what is the start date that my insurance set
+coverage_term,what end date my insurance cover until
+coverage_term,which day my insurance cover until
+coverage_term,tell me the day of my insurance ending
+coverage_term,will my insurance end next year
+coverage_term,is my plan ending tomorrow
+coverage_term,will my insurance last forever
+coverage_term,what is teh duration of my insurance
+coverage_term,what is the length of coverage
+policy_type,do I have different types of policy
+policy_type,do I have diff type of insurance policies
+policy_type,insurance policies type is what
+policy_type,what are the types of policy I bought
+policy_type,what is the type of policy I buy
+policy_type,the type of policy that I bought 
+policy_type,the policy type?
+policy_type,"if I have 3 policy type, what are the 3 types"
+policy_type,what kkind of policy did I buy
+policy_type,what type of insurance did I buy
+policy_type,what kind of insurance did I buy
+policy_type,what kind of products I biuy
+policy_type,what kind of products I purchased
+policy_type,the kinds of products purchased
+policy_type,the policy type purhased
+policy_type,what policy type I purhased
+policy_type,the kind of insruance type
+policy_type,say the insurance tpye
+policy_type,tell me my insurance type
+policy_type,tell me the type of insurance I bought
+policy_type,which insurance policy did I buy
+policy_type,hi there how are you what is my policy type
+policy_type,hi chatbot can you tell me what policy type of my insurance
+policy_type,"what is the policy type of insurance, chatbot?"
+policy_type,hello chatbot!how are you doing? I want to know what type of insurance I bought
+policy_type,hi chatbot!How are you feeling? I want to know what type of plans I purchase
+policy_type,"hey bot, what policy type did I buy"
+policy_type,"hey folk, what plans type did I buy"
+policy_type,what is the plan's type
+policy_type,hi bot what plans type
+policy_type,bot please tell me the policy plan
+policy_type,bot please tell me what insurance I bought
+policy_type,"bot, could you tell me the insurance tpye"
+policy_type,could u tell the insurance type I have
+policy_type,I having which policy
+policy_type,I carrying which policy
+policy_type,which policy protecting me
+policy_type,which policy type covering me
+policy_type,what policy type Is protecting me now
+policy_type,"currently, the policy type is what"
+policy_type,what type of insurance I have now?BOT?
+policy_type,which inusrance did I buy
+policy_type,what policy type I buy
+policy_type,which policy type I habe
+policy_type,what is the type of insurance I havw
+policy_type,do you know what is the type of policy I haev?
+policy_type,what can you tell me about the policy type
+policy_type,tell me about the policy type for my insurance
+policy_type,say the policy type of the insurance that I bought.
+policy_type,having which policy type?
+policy_type,havw which type policy?
+policy_type,policy type hwat
+policy_type,wat the policy type
+policy_type,type of insurance I havw
+life_assured,was the person that I assigned me?
+life_assured,did I assign myself?
+life_assured,who are the person assured
+life_assured,who is assured for my policy
+life_assured,who is assured for this insurance
+life_assured,who is the one that is assured for this policy?
+life_assured,whose life is covered in my insurance contract
+life_assured,person that I choose to cover
+life_assured,person that I choose to assign
+life_assured,who did I cover for the insurance that I buy
+life_assured,"based on the insurance that I bought, who did I put as the person assured"
+life_assured,"based on the insurance that I bought, who did I put as the person I am covering"
+life_assured,"based on the plans, who did I put as the person that I am going to cover"
+life_assured,the covered person is who
+life_assured,who did I assiged as person assured
+life_assured,who did I assure
+life_assured,what is the name of the person assured?
+life_assured,which insurance did I not assure myself
+life_assured,what is the insurance that I assured for other people
+life_assured,how many insurance I assure myself
+life_assured,what type of insurance did I assure myself
+life_assured,what type of plans did I cover my family
+life_assured,what plan did my person assured got covered by
+life_assured,who is the person assured
+life_assured,who did I assign to protect
+life_assured,the insurance is protecting who
+life_assured,person that I am assuring where to fid details for it
+life_assured,where to find details for the person I am assuring
+life_assured,where to look if I want to find information for the person assured
+life_assured,I just want to check who is the person I am assuring
+life_assured,who is hte person assured
+life_assured,who did I assign to be assured
+life_assured,who is the insruance protecting
+life_assured,whoch insurance is protecting who
+life_assured,whiuch insurance is protecting me
+life_assured,who is the person that I assiged to be protected
+life_assured,who is protected by my insurance
+life_assured,who is protected by my plans
+life_assured,who did I say I want to protect in my insurance
+life_assured,"the insurance that I chose, did I protect my daughter"
+life_assured,"the insurance that I bought, did I protect my son"
+life_assured,did I choose the person to be protected to be my wife
+life_assured,did I choose to protect my husband in my policy
+life_assured,is the person assigned my grandfather
+life_assured,is the person assigned my grandmother
+life_assured,is the person assigned my family members
+life_assured,who did I assigned to protect? My daughter or son
+life_assured,I protecting who for the insurance
+life_assured,my insurance protecting who
+life_assured,is my insurance protecting me
+life_assured,is my plans protecting my daughter
+life_assured,is my plan protecting my son
+life_assured,is my plan protecting my father
+life_assured,is my plan protecting my mother
+payment_duration,when is the payment ending
+payment_duration,when will my payment be ending
+payment_duration,when is the payment going to start?
+payment_duration,when do I begin making payments
+payment_duration,my payment duration
+payment_duration,what is the payment duration
+payment_duration,what is my payment duration?
+payment_duration,am I going to have to pay soon
+payment_duration,do I have to pay soon
+payment_duration,do I need to pay soon
+payment_duration,am I required to pay soon
+payment_duration,when is the paymetn going to end
+payment_duration,is my payment going to end soon
+payment_duration,is my payment going to end
+payment_duration,when will the payment be ending
+payment_duration,payment start date
+payment_duration,paymnet end date
+payment_duration,payment end date
+payment_duration,paymnet duration
+payment_duration,what is the paymen duratoin
+payment_duration,is the insurance payment going to start soon
+payment_duration,do I have to start paying soon?
+payment_duration,am I required to pay tomorrow?
+payment_duration,do I have to start paying tomorrow
+payment_duration,must I pay by tomorrow
+payment_duration,how long is the payment going to last
+payment_duration,the duration of my payment how long
+payment_duration,"isit going to be very long, the duration of payment"
+payment_duration,length of payment date
+payment_duration,how long is the payment duration
+payment_duration,what is the duration of my paymetn
+payment_duration,how long do I have to pay for my insurance
+payment_duration,payment duration of insruance
+payment_duration,insurance payment period
+payment_duration,what is the insurance payment period
+payment_duration,how long do I have to pay for it
+payment_duration,how long do I have to pay for insurance
+payment_duration,do I have 30day grace period
+payment_duration,do I have 30 day grace period for payment
+payment_duration,can I delay my payment duration if I cannot pay yet
+payment_duration,"if I pay late, will I get late fees charged"
+payment_duration,"if I cannot pay within the payment duration, will I get fees charged"
+payment_duration,will fees be charged during a time where I cannot get the payment done
+payment_duration,will I get fees if I cannot pay by the payment duration
+payment_duration,payment duration how long is it going to be
+payment_duration,do I have to pay additional fees if I cannot pay within the payment duration
+payment_duration,will the delay in payment make me pay more fees
+payment_duration,can I have 30 day grace period If I cannot pay during the payment duration
+payment_duration,"if I cannot pay during the payment duration, will my policy be cancelled"
+payment_duration,will my inusrance be cancelled if I paid late
+payment_duration,what is the exact date that I have to start paying
+payment_duration,what is the exact date that I can stop paying
+payment_duration,will my insurance be canceled if I cannot pay during the payment duration
+fallback,calm down and continue
+fallback,make some memories and have fun
+fallback,what about going to the movies
+fallback,I want to watch a movie
+fallback,movie ticket
+fallback,how long does chinese new year last
+fallback,would it be possible to ask you about some games
+fallback,I want to get referral
+fallback,who to refer
+fallback,not sure what to put here
+fallback,what is this supposed to be like
+fallback,how is the weather forecast going to be like
+fallback,I love titanic
+fallback,if today is Monday what is tomorrow
+fallback,what is weekend
+fallback,who is james bond
+fallback,actually not sure what to write anymore
+fallback,this is infuriating
+fallback,I kept hearing noises around the room
+fallback,is that a ghost
+fallback,do you understand what I sm saying 
+fallback,why are you so angry
+fallback,why are u so stuborn
+fallback,could you stop all this fuss
+fallback,stop whining like a baby
+fallback,james bond movie
+fallback,I love music 
+fallback,what is this?
+fallback,who am i
+fallback,do u love music
+fallback,do u like to watch movies
+fallback,I like to use technical analysis
+fallback,I need help teach me how to get ready for the stage
+fallback,hi bot who is your friend
+fallback,hey bot how is this life like
+fallback,what is the fundamental basics
+fallback,how to drive
+fallback,I do not know how to bake
+fallback,I love cooking
+fallback,I love drawing
+fallback,don't know what to do already
+fallback,help is very much needed
+fallback,not sure how to even get better
+fallback,this is foul plau
+fallback,how to play
+fallback,what is your father's name
+fallback,do  you have parents
+fallback,do you have child
+fallback,hey hwat can u do to cut paer
+fallback,talking gibb is what y
+fallback,helo u are what is going on
+fallback,I have no idea
+fallback,what to put naymore
+fallback,think of more stuff to put
+welcome,merry xmas bot
+welcome,merry christmas to u too
+welcome,happy new year
+welcome,happy new year to u
+welcome,how is everything
+welcome,how's everything
+welcome,are you fine
+welcome,are you ok?
+welcome,"I'm fine mate, you alright"
+welcome,are you alright today because I am having a nice day
+welcome,hey my friend
+welcome,hey are you happy today
+welcome,hey!
+welcome,hello there
+welcome,"hi there, bot"
+welcome,"hi there, friend"
+welcome,hi friend
+welcome,hello friend
+welcome,what is up my friend
+welcome,"my fellow mate, how are you"
+welcome,"I am good, how about you"
+welcome,what's up mate?
+welcome,"what is up, mate"
+welcome,hey fellow friend how are you
+welcome,hey there I hope you are fine because I am
+welcome,hi is all well for you
+welcome,hi is everyhting good
+welcome,hey is everythign good
+welcome,hello is everything good
+welcome,hi I need help with
+welcome,hi I want to ask
+welcome,hello I want to ask
+welcome,hello can you help me with
+welcome,hey can help me
+welcome,hey chatbot can help me
+welcome,hi chatbot could you help me with my insurance questions
+welcome,hi I just want to ask about insurance
+welcome,hi I want to ask about insurance
+welcome,hi I just want to ask if you are fine
+welcome,hello there what is up
+welcome,hey there my friend
+welcome,hey friend
+welcome,hey fellow mate how do you do
+welcome,how you doing
+welcome,doing great what about you
+welcome,hi folks
+welcome,hey folks how do you do
+welcome,"how do you do, folks?"
+welcome,hi folks.
+welcome,hey folks.
+welcome,"hey there, fellow folk"
+welcome,hi folk
+welcome,hi dear folk
+welcome,hey chatbot want to chat with me
+welcome,helloo chatbot
+pd_physical,if I get total paralysis in my limbs do I get claims for it?
+pd_physical,if get toal paralysis how do I get claims for it
+pd_physical,if I get total paralysis can claim or not
+pd_physical,I want to claim for tpd
+pd_physical,I want to get claims for having tpd
+pd_physical,if I got tpd I want to claim can or not
+pd_physical,"if have tpd, want to claim,can?"
+pd_physical,can claim for tpd?
+pd_physical,can get claims if get tpd
+pd_physical,total permanent disability how to get claims for it
+pd_physical,if paralyse fully already how to claim
+pd_physical,paralyse fully already
+pd_physical,total paralysis of body how get claims
+pd_physical,for the tpd can claim or not
+pd_physical,if want to claim how is process like for tpd
+pd_physical,where to find information about whether I can claim for tpd
+pd_physical,if got tpd can claim. Informaiton from where?
+pd_physical,how does one claim for tpd?
+pd_physical,I just want to check if I can claim if get tpd
+pd_physical,"want to get claim for tpd, can claim or not"
+pd_physical,can claim or not? For tpd
+pd_physical,can claim or not if I get tpd
+pd_physical,can claim? If I have tpd
+pd_physical,can claim? If get total permenent disability
+pd_physical,total permanent disability how claim?
+pd_physical,can claim if have total permanent disability?
+pd_physical,just want to check if have tpd how to claim
+pd_physical,isit possible to claim for tpd
+pd_physical,isit possible to claim if I have tpd
+pd_physical,total perm disability possible to claim or not
+pd_physical,possible to claim for total perm disability
+pd_physical,possible to claim for tpd
+pd_physical,possible to claim? For total permanent disability
+pd_physical,for total perm disablity can get claims for it?
+pd_physical,want to get claims for toal permanent disability
+pd_physical,want to get claims if fully paralysed
+pd_physical,fully paralysis in body
+pd_physical,full paralyssi in body already
+pd_physical,4ever cannot move can claim
+pd_physical,if I forever cannot move how claim
+pd_physical,if 4ever cannot move how to claium
+pd_physical,what is teh procedure like if I claim for tpd
+pd_physical,the tpd claiming process is like how one
+pd_physical,the tpd claim procedure is like how want
+pd_physical,want to get claim for tpd.
+pd_physical,what the process of claim for tpd
+pd_physical,what the procedure like for claiming total permanent disability
+pd_physical,the total permanent disablity is how to get claims for it?
+pd_physical,toal permanent disability claimable or not
+pd_physical,isit claimable for tpd
+pd_physical,claimable for tpd?
+pd_physical,claimable if get total permanent disabiloity?
+pd_sight,sight process like how one to claim
+pd_sight,claimable for loss of sight
+pd_sight,claimable if lost one eye ?
+pd_sight,claimable if my eye canot see 4ever?
+pd_sight,claimable if get one sight vision gone
+pd_sight,claimable if got one eye vision gone
+pd_sight,claimable if got 2 eyes sight gone
+pd_sight,2 eyes vision disappear can claim or not
+pd_sight,2 eyes vision no more can cliam?
+pd_sight,how to get claim if got 2 vision gone
+pd_sight,how to get cliams if 1 sight gone
+pd_sight,hoiw to claim if 1 sight gone
+pd_sight,how to claim if one side of eye no more vision
+pd_sight,can claim if one side of eye no more vision
+pd_sight,how to get claims if 2 eye side vision no more
+pd_sight,want to get claims for 2 eye gone
+pd_sight,no more vision 4ever.
+pd_sight,want to claim for no more vision forever
+pd_sight, want to get claims for 4ever no more vision
+pd_sight,no more vision 4ever still can get claims or not
+pd_sight,want to check if can claim if blind forever
+pd_sight,"blind person already, how?"
+pd_sight,want to get claims for being blind
+pd_sight,being diagnosed as blind can claim
+pd_sight,claimable for blind person?
+pd_sight,how does one claim for being blind
+pd_sight,how dies one claim for loss of sight
+pd_sight,how to claim for lost of 2 eyes
+pd_sight,how to claim for loss of 1 eye
+pd_sight,how to get claims for losing 2 sight
+pd_sight,how to get claims for loss of vision
+pd_sight,no more vision already
+pd_sight,forever cannot see and is blind
+pd_sight,blind person.
+pd_sight,am a 1 eye person
+pd_sight,can only see with one eye
+pd_sight,can only see with 1 eye
+pd_sight,eye only have 1
+pd_sight,only can see eith 1 eye
+pd_sight,cannot see with 2 eyes
+pd_sight,2 eyes no more sight
+pd_sight,no more vision for my eyes
+pd_sight,no more sight anymore
+pd_sight,eye sight gone already
+pd_sight,eyesight is no more
+pd_sight,no more sight in 1 eyes
+pd_sight,2 sights gone
+pd_sight,unable to see the world anymore
+pd_sight,no eyesight
+pd_sight,loss of eyesight
+pd_speech,unable to talk anymore
+pd_speech,cannot be a talkative person already
+pd_speech,I want to get claims for being unable to speak
+pd_speech,want to get claims for being mute
+pd_speech,I mute already
+pd_speech,am a mute person
+pd_speech,no more voice for me to talk
+pd_speech,I cannot talk anymore
+pd_speech,what to do If I cannot talk
+pd_speech,what to do I no more speech
+pd_speech,no more pseech ability..
+pd_speech,how isit like to claim for no speech
+pd_speech,no bility to talk
+pd_speech,loss the ability to speak.
+pd_speech,how to claim if lost the ability to talk
+pd_speech,no more chance for me ti talk anymore
+pd_speech,can't talk
+pd_speech,"can't speak, how claim"
+pd_speech,how to claim if no more speak ability
+pd_speech,how to claim if cannot speak anymore
+pd_speech,I just want to know how to claim if cannot speak
+pd_speech,how to claim if no spech already
+pd_speech,"no speech, how cliam?"
+pd_speech,have dysathria then become anarthria
+pd_speech,anarthria how to claim
+pd_speech,anarthira can claim?
+pd_speech,want to get claims for anarthria
+pd_speech,how do I get claims for having anarthria
+pd_speech,no muscle to speak
+pd_speech,speech disorder cannot speak
+pd_speech,cannot articulte speech
+pd_speech,no articulate speech
+pd_speech,unale to articulate
+pd_speech,unable to articulate words
+pd_speech,no more ability to articulate
+pd_speech,cannot never articulate 4ever
+pd_speech,can never articulate anymore
+pd_speech,lost the ability to articulate
+pd_speech,loss of articulation skill
+pd_speech,cannot speech anymore
+pd_speech,speak ability lost
+pd_speech,speak ability loss
+pd_speech,speak ability gone
+pd_speech,speech ability lost
+pd_speech,speeach is no more
+pd_speech,no more speaking ability
+pd_speech,no more articulation from me how to claim
+pd_speech,how get claims for no more speech
+pd_speech,"if no more speech, can claim?"
+c_motorcycling,want to get claims for motorcyling accident
+c_motorcycling,injury from the ride of motor
+c_motorcycling,injury from riding pilion
+c_motorcycling,pillioning got injured how can get claim?
+c_motorcycling,claims for injury while pilion?
+c_motorcycling,wnt to get claim for injrued during motorbike
+c_motorcycling,motorbike injury
+c_motorcycling,motorcycling then get injured
+c_motorcycling,motorcycling then pass away
+c_motorcycling,pass away while motorcyling
+c_motorcycling,rip while motorcycling
+c_motorcycling,dead while pillion
+c_motorcycling,rip while pillioning
+c_motorcycling,pass away from accident in motorcycle
+c_motorcycling,pass away from injury by motorbike
+c_motorcycling,ride motorbike until die
+c_motorcycling,ride motorbike until pass away
+c_motorcycling,ride motorcycle until rip
+c_motorcycling,rip from riding pillion
+c_motorcycling,rip from pillioning
+c_motorcycling,pass away from pillioning
+c_motorcycling,got claim if get rip from pillion
+c_motorcycling,if die from pillioning can claim
+c_motorcycling,motorbike pillion can claim if got injury
+c_motorcycling,rip then can claim if got motor accident?
+c_motorcycling,how to get claims if die from motorbike
+c_motorcycling,how to get claims if dead while riding motorcycle
+c_motorcycling,how to get claims if rip while motorcycling
+c_motorcycling,want to kow how to get claims if injured on motorbike
+c_motorcycling,how to get claims if injured on motorcycle
+c_motorcycling,motorcycle then injured myself
+c_motorcycling,ride pillion then got injured
+c_motorcycling,got injury while riding pillion
+c_motorcycling,motorbike pillion injured how claim?
+c_motorcycling,I want to get claims for pillioning injury
+c_motorcycling,I want to get claims for dead while riding motorbike
+c_motorcycling,ride motorbike then die
+c_motorcycling,ride motorbike then got injured
+c_motorcycling,ride motorcycle and rip
+c_motorcycling,rip from riding motorcycle
+c_motorcycling,dead while riding motorbike
+c_motorcycling,how to get claims if ride motor and die
+c_motorcycling,how to get claims if ride pillion and injure
+c_motorcycling,injure myself while riding motorbike  can claim?
+c_motorcycling,got accident while riding motorbike
+c_motorcycling,get into accident while pillion can get claims or not
+c_motorcycling,"I want to get claims for injury in pillion, can?"
+c_motorcycling,get claims for riding motorbike and get injured
+c_motorcycling,injured myself while riding motorbike
+a_miscarriage,I wnat to get claims for miscarriage of fetus
+a_miscarriage,got claims for miscarrying
+a_miscarriage,want to get claims for miscarriage.
+a_miscarriage,what to do if my fetus die? Can claim?
+a_miscarriage,can I get claim if fetus die
+a_miscarriage,fetus die already can claim or not
+a_miscarriage,loss of pregnancy can claim or not?
+a_miscarriage,loss of fetus claimabe?
+a_miscarriage,want to know ifd can claim for miscarriage
+a_miscarriage,fetus lost how to claim
+a_miscarriage,miscarry how to claim?
+a_miscarriage,check for claims of miscarriage
+a_miscarriage,miscarriage claim how
+a_miscarriage,fetus rip how to claim
+a_miscarriage,I want to claim for fetus rip
+a_miscarriage,I want to claim for fetus dead
+a_miscarriage,I want to claim for loss of fetus
+a_miscarriage,I want to claim for loss of pregnancy
+a_miscarriage,I wnt to claim for loss of pregnant
+a_miscarriage,I want to claim for miscarriage
+a_miscarriage,the miscarriage can claim or not
+a_miscarriage,I gtet misscarriage
+a_miscarriage,I got miscarroage how?
+a_miscarriage,want to get claims for miscarriat
+a_miscarriage,miscarry can claim or not?
+a_miscarriage,want to get claims for having a miscarriage
+a_miscarriage,want to get claims if got miscarriage
+a_miscarriage,miscarriage can claim or not?
+a_miscarriage,want to claim if have miscarriage
+a_miscarriage,want to claim if lost fetus
+a_miscarriage,lost of fetus how the process of claiming
+a_miscarriage,how is the process of claiming like for miscarriage
+a_miscarriage,miscarriage process claim is how
+a_miscarriage,process of cliam miscarriage how
+a_miscarriage,how to get claim for miscarriage
+a_miscarriage,I want to get claims for miscarriage
+a_miscarriage,miscarry can claim?
+a_miscarriage,I want to get claims for having loss of my fetus
+a_miscarriage,fetus rip can claim or not
+a_miscarriage,fdetus dead already can claim?
+a_miscarriage,if fetus die can claim?
+a_miscarriage,loss of pregnancy how the process of claiming
+a_miscarriage,procedure to claim for loss of pregnancy
+a_miscarriage,no more fetus how to claim
+a_miscarriage,claimable for loss of pregnancy?
+a_miscarriage,claimable for loss of fetus
+a_miscarriage,claimable for lost pregnancy
+a_miscarriage,claimable for miscarriage?
+a_riot,civil commotion injury the claims can or not
+a_riot,civil commotion then injured myself
+a_riot,got riot then got injured
+a_riot,got strike then got scrape myself
+a_riot,hijakc got me injured
+a_riot,hijack then I rip
+a_riot,riot then I died then how
+a_riot,riot then I rip
+a_riot,rip from riot
+a_riot,rip from strike
+a_riot,rip fro assault
+a_riot,rip from murder
+a_riot,die because someone murdering me
+a_riot,die cause of murder cn claim?
+a_riot,die because of assault can claim?
+a_riot,die because of riot can claim or not
+a_riot,"want to get claims for riot injury, can?"
+a_riot,how to get claims for injured by riot
+a_riot,how can claim for injured by hijack
+a_riot,assault make me injured how to laim
+a_riot,I want to claim an injury by riot
+a_riot,I want to claim for an injuey by hijack
+a_riot,want to claim for injury by assault
+a_riot,want to claim for injury by riot
+a_riot,want to claim for injury by murder
+a_riot,want to claim for injury by civil commotion
+a_riot,civil commotion make me get injuredd
+a_riot,riot make me unjured my self
+a_riot,how to claim for iunjured by riot
+a_riot,cliamable for riot injury?
+a_riot,claimable for riot strike injury
+a_riot,claimable for strike injury
+a_riot,claimable for cvili commotion injury
+a_riot,claimable for hijack injury
+a_riot,claimable if I get injured during assault
+a_riot,someone tried to assault me and I injured
+a_riot,how to claim if I get injured if people want to kill me
+a_riot,barely made it alive from being murdered
+a_riot,how to claim if I was injured during riot
+a_riot,ow to claim if I was injured during sstrike
+a_riot,how to claim if I was injured during civil commotion
+a_riot,hwo to claim if I was injured during hijack
+a_riot,how to claim if I was injured during assault
+a_riot,how to claim if was injured during murder
+a_riot,how to claim got wound from assault
+a_riot,got wound from murder
+a_riot,got slashed by knife during riot
+a_riot,got slash by knife during strike
+a_riot,someone shoot me during strike
+a_riot,someone shoot me while trying to assault
+a_animal,if got bitten by animal can claim or not?
+a_animal,want to get claim for animal after gettign bitten
+a_animal,dog bite me how to claim?
+a_animal,can claim or not if got bee sting me
+a_animal,ant bite me can claim or not
+a_animal,otter bite me can claim or not
+a_animal,otter attack me can claim?
+a_animal,want to et claim for otter bite me
+a_animal,bee sting me want to get claims for it
+a_animal,what is the process of cliaiming for bee sting
+a_animal,what's the process of claiming for bee sting
+a_animal,what's the process for claiming dog bite
+a_animal,what is the process for claiming animal bite
+a_animal,what's the process of claiming dog bite
+a_animal,wat's the process like to claim animal bite
+a_animal,animal sting process to claim is how
+a_animal,I want to know if can get claim if animal sting me
+a_animal,stung by anima
+a_animal,bitten by animal can claim?
+a_animal,want to know how to get claims for animal sting
+a_animal,animal sting can cliaim or not
+a_animal,animal bite can claim or not
+a_animal,want  to get claims for animal bite
+a_animal,animal bite claims
+a_animal,claimable if dog bite me?
+a_animal,claimable if otter bite me?
+a_animal,want to know how to claim for ainaml bites
+a_animal,animals bites how the process of claiming
+a_animal,animal sting how the process of claims
+a_animal,claims for animal sting injury
+a_animal,claims for nimal bite injury
+a_animal,animal bite can claim want or not
+a_animal,animals sting can claim one?
+a_animal,was bitten by anima
+a_animal,was stung by animal
+a_animal,get claims for ainmal bite
+a_animal,get claims for animal sting
+a_animal,get claim for animal sting me
+a_animal,how to get claims if animal come and bite me
+a_animal,bitten by animal and want to get claims
+a_animal,sting by anumal and want to get claims
+a_animal,otter bite me want to get claims for that
+a_animal,jellyfish sting me ow can I get claims for it
+a_animal,"got bitten by otter, can claim?"
+a_animal,want to get claims for being bitten by otter
+a_animal,got stung by jellyfish can claim or not 
+a_animal,got stung by jelly fish can claim or not
+a_animal,wantr to claim if get stung by jelly fish
+a_animal,jelly fish injured me can claim?
+a_animal,want to claim if get bitten by a dog
+a_mobilityaid,want to get a stairlift after my injury
+a_mobilityaid,can get stairlift then clai?
+a_mobilityaid,can buy stairlift then claim?
+a_mobilityaid,can buy walker then go claim
+a_mobilityaid,process of claim walker purchase
+a_mobilityaid,process to claim stairlift purchase
+a_mobilityaid,process to claim for wheelchair purchase
+a_mobilityaid,process to claim for crutches purchase
+a_mobilityaid,bought a crutch to support
+a_mobilityaid,bought crutches to support me
+a_mobilityaid,want to claim for support of crutches
+a_mobilityaid,"cane to help me walk, claimable?"
+a_mobilityaid,claimable to help buy cane?
+a_mobilityaid,wabt to buy cane can claaim
+a_mobilityaid,want to buy walking stick
+a_mobilityaid,want to buy walking cane
+a_mobilityaid,need to buy walking stick
+a_mobilityaid,need to buy walking cane
+a_mobilityaid,claimable if buy walking cane
+a_mobilityaid,cliaimable if I buy walking cane?
+a_mobilityaid,claimable if I buy walkrs?
+a_mobilityaid,claim for buying walking cane
+a_mobilityaid,claim for buying walking stick
+a_mobilityaid,buy walking cane
+a_mobilityaid,how to claim for purchase of walking stick
+a_mobilityaid,how to claim for purchase of stairlift
+a_mobilityaid,how to claim for purchase of walking cane?
+a_mobilityaid,how to get claims for wheelchair
+a_mobilityaid,I need mobility aid
+a_mobilityaid,mobility aid can claim
+a_mobilityaid,how to claim for mobility aid
+a_mobilityaid,want to get claims for mobility aid
+a_mobilityaid,how does one get claims for mobility aid
+a_mobilityaid,"I want to buy cane, can claim or not?"
+a_mobilityaid,if buy wheelchair can claim from my insurance?
+a_mobilityaid,"I want to get a wheelchair, can I claim for that"
+a_mobilityaid,I want to get wheel chair
+a_mobilityaid,mobility aid claims
+a_mobilityaid,claimable for mobility aid?
+a_mobilityaid,what the process like for claiming mobility aid
+a_mobilityaid,proces of claim mobility aid
+a_mobilityaid,claiming mobility aid process
+a_mobilityaid,walking device can claim?
+a_mobilityaid,got to buy mobility scooter
+a_mobilityaid,got to buy walking stick
+a_mobilityaid,got wto buy wheelchair
+a_mobilityaid,got to purcahse wheel chair
+a_mobilityaid,want to buy wheelchair
+a_mobilityaid,"need buy mobility aid, can claim or not"
+a_mobilityaid,"want to buy mobility aid, can claim?"
+a_suffocation,choke by poisonous fumes
+a_suffocation,choke by smpoke
+a_suffocation,choke by poisonous gas
+a_suffocation,poison fume choke me
+a_suffocation,poison gas choked me
+a_suffocation,poison air choke me
+a_suffocation,lung damaged from suffocation by gas
+a_suffocation,rip from suffccating in water
+a_suffocation,rip from drowining
+a_suffocation,rip from drown in water
+a_suffocation,rip from breathing poisonous gas
+a_suffocation,rip from breathing poison fumes
+a_suffocation,dead from breathing poison air
+a_suffocation,dead from breathe poisonous fumes
+a_suffocation,die by breathig poison gas
+a_suffocation,poison gas caused death
+a_suffocation,poison gas caused injury
+a_suffocation,poisonous fumes caused me injury
+a_suffocation,poisonous gas caused injury
+a_suffocation,poison air caused injury
+a_suffocation,injured from poison air
+a_suffocation,injured from breathing poisonous air
+a_suffocation,got choke from the poisoned air
+a_suffocation,poisoned gas choke me
+a_suffocation,poisoned fumes chooked me
+a_suffocation,got choked by poison gas
+a_suffocation,almost die from poisonous gas
+a_suffocation,almost die from poisonous fumes
+a_suffocation,almost dead from poison fume
+a_suffocation,almost dead from poison gas
+a_suffocation,"poisoned gas, how claim"
+a_suffocation,"poisoned fumes breathed in, claimable?"
+a_suffocation,claimable if breathe in poison air
+a_suffocation,claimable if breathe in poison fumes
+a_suffocation,claimable if breathe in poison gas
+a_suffocation,claimable if suffocated
+a_suffocation,suffocated by something can claim or not
+a_suffocation,wat can claim if got suffocation
+a_suffocation,suffocation by what then can claim
+a_suffocation,if suffocate by gas can claim
+a_suffocation,if smoke suffocation can claim
+a_suffocation,want to claim for smoke suffocate me
+a_suffocation,suffcated by poisoned gas
+a_suffocation,suffocatsed from water
+a_suffocation,lung damaged by water
+a_suffocation,lungs got water so pain
+a_suffocation,almost drowned
+a_suffocation,almost got drown how
+a_suffocation,claimable if almost drown
+a_suffocation,dead from drowning
+ad_disappear,plane wrek then cannot find until the person assured
+ad_disappear,person assured cannot be found after planecrash
+ad_disappear,plane crash then cannot find the eprson
+ad_disappear,claimable if person disappear from aircrash
+ad_disappear,airplane crash the person gone
+ad_disappear,airplane wreck then person missing
+ad_disappear,person missing in action after plane crash
+ad_disappear,person mia when plane crash
+ad_disappear,person mia when conveyance spoil
+ad_disappear,person mia when plaen wreck
+ad_disappear,plane wreck and person mia
+ad_disappear,missing in action after plane wrekc
+ad_disappear,how to claim if missing person from airplane crash
+ad_disappear,how to claim if person is gone after airplane crash
+ad_disappear,airplane wreck how to claim if person disappear
+ad_disappear,person disappeared from airplane wreck
+ad_disappear,person mia from airplane wrekc
+ad_disappear,aeroplane wreck person disappear
+ad_disappear,aeroplane wreck people gone
+ad_disappear,people missing from aerople wreck
+ad_disappear,people disappear from aeroplane wreck
+ad_disappear,person disappear after aeroplane destructuon
+ad_disappear,want to get claims for person disappear
+ad_disappear,if got people disappear during plane wreck how claim
+ad_disappear,claim for person missing in conveyance
+ad_disappear,claim for person gone ins airplane crash
+ad_disappear,plane crash person missing
+ad_disappear,plane crash person mia
+ad_disappear,conveyance crash person mia
+ad_disappear,shipwreck can claim if person missing
+ad_disappear,shipwrekc claim when person missing
+ad_disappear,shipwrekc claim after person mia
+ad_disappear,mia person from shipwreck
+ad_disappear,mia person from plane wreck
+ad_disappear,mia pereson from planewreck
+ad_disappear,mia person from plane crash
+ad_disappear,mia person from conveyance wreck
+ad_disappear,mia person from airplan wrekc
+ad_disappear,mia person from aeroplane wreck
+ad_disappear,aeroplane wreck people mia
+ad_disappear,how to get claim for person missing in planewreck
+ad_disappear,aeroplane wreck person mia
+ad_disappear,claimable if person missing from placecrash
+ad_disappear,claimable if person missing from airplan crash
+ad_disappear,claimable if person missing from conveyance wreck
+ad_disappear,claimable if person gone from plane crash
+ad_disappear,claimable if person disappear from aircraft crash
+ad_disappear,claimable if person disappear from aircraf wreck
+ad_disappear,aircraft wreck person disappear can claim
+ad_disappear,got aerople crash then person disappear

@@ -1,0 +1,4 @@
+main plan id;start date;end date;payout frequency;non guarantee amt;guaranteed amt
+5ae2d6a67370610cc61a9411;2021-02-27;;YEARLY;0.00;2500.0
+5ae2d6a67370610cc61a9411;2018-02-27;;YEARLY;0.00;500.0
+5b84b9c3d4ce12785f3f526d;2018-08-28;;YEARLY;500.00;500.0

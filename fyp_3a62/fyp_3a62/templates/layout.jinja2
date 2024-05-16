@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="{{request.locale_name}}">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="pyramid web application">
+  <meta name="author" content="Pylons Project">
+  <title>FinancialRuler Chatbot prototype</title>
+
+  <!-- Bootstrap core CSS -->
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel='stylesheet' href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/ui-lightness/jquery-ui.css'>
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/timepicker/1.3.5/jquery.timepicker.min.css">
+
+  <!-- Custom styles for this scaffold -->
+  <link href="{{request.static_url('fyp_3a62:static/css/chat.css')}}" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- <div class="starter-template"> -->
+  <div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item active">
+            <a class="nav-link" href="/">Home<span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="dashboard" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Dashboard
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+              <a class="dropdown-item" href="users">Users</a>
+              <a class="dropdown-item" href="main_plans">Insurance Main Plans</a>
+              <a class="dropdown-item" href="main_plans_payout">Insurance Main Plans Payout</a>
+              <a class="dropdown-item" href="main_cash_plans">Insurance Main Cash Plans</a>
+              <a class="dropdown-item" href="main_plans_premium">Insurance Main Plans Premium Schedule</a>
+              <a class="dropdown-item" href="riders">Insurance Riders</a>
+              <a class="dropdown-item" href="riders_premium">Insurance Riders Premium Schedule</a>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <div class="row">
+        {% block content %}
+        <p>No content</p>
+        {% endblock content %}
+    </div>
+
+
+  </div>
+  <!-- </div> -->
+
+
+  <!-- Bootstrap core JavaScript
+    ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js" crossorigin="anonymous"></script>
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.25.0/axios.min.js" integrity="sha512-/Q6t3CASm04EliI1QyIDAA/nDo9R8FQ/BULoUFyN4n/BDdyIxeH7u++Z+eobdmr11gG5D/6nPFyDlnisDwhpYA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <script src="../static/js/chat.js"></script>
+  <script src="../static/js/responses.js"></script>
+  <script src="../static/js/dashboard.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js" ></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/timepicker/1.3.5/jquery.timepicker.min.js"></script>
+</body>
+
+</html>

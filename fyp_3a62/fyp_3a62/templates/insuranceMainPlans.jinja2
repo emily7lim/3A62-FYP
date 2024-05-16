@@ -1,0 +1,24 @@
+{% extends "layout.jinja2" %}
+
+{% block content %}
+
+<!-- Show table -->
+<div class="col-md-12">
+    <div class="container">
+        <table id="gfInsuranceMainPlans" class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Insurance ID</th>
+                    <th>MongoDB ID</th>
+                    <th>Date Created</th>
+                    <th>Policy Holder</th>
+                </tr>
+            </thead>
+            <tbody  id='gfInsuranceMainPlans-list-tbody'>
+            <!-- Retrieve data from backend -->
+            </tbody>
+        </table>
+    </div>
+</div>
+
+{% endblock content %}

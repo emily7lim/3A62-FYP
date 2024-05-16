@@ -1,0 +1,25 @@
+{% extends "layout.jinja2" %}
+
+{% block content %}
+
+<!-- Show table -->
+<div class="col-md-12">
+    <div class="container">
+        <table id="gfUser" class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>User ID</th>
+                    <th>MongoDB ID</th>
+                    <th>Full Name</th>
+                    <th>Preferred Name</th>
+                    <th>Nationality</th>
+                </tr>
+            </thead>
+            <tbody id='gfUser-list-tbody'>
+            <!-- Retrieve data from backend -->
+            </tbody>
+        </table>
+    </div>
+</div>
+
+{% endblock content %}

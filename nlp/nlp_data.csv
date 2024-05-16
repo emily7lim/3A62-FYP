@@ -1,0 +1,729 @@
+label,question
+payment_freq,how often do I need to pay
+payment_freq,I use monthly or yearly to pay
+payment_freq,how often do I use to pay
+payment_freq,how often I need pay for my plan
+payment_freq,frequency of my payment
+payment_freq,how regularly do I have to pay
+payment_freq,do i need to pay monthly
+payment_freq,do I have to pay yearly
+payment_freq,how habitually I need to pay
+payment_freq,how often do I have to pay
+payment_freq,how as often as possible I got to pay
+payment_freq,how many times I need pay In a year
+payment_freq,how many times I have to pay
+payment_freq,number of time I need to pay
+payment_freq,no of times of payment requirend
+payment_freq,what is the number of times I have to pay per year
+payment_freq,how as often as possible do I ought to pay
+payment_freq,what is the frequency of my payment
+payment_freq,how many times a year i need pay
+payment_freq,what's the frequency of my payment
+payment_freq,how frequently do I need to pay
+payment_freq,what is my frequncy of payment
+payment_freq,how often I need pay?
+payment_freq,frequency of my payment?
+payment_freq,is mine yearly or monthly payment
+payment_freq,how usually do I have to make payment
+payment_freq,how constantly do I have to pay
+payment_freq,do I have to frequently make payment a year
+payment_freq,"in a year, do you know how many times I have to pay"
+payment_freq,do I pay in a year or month
+payment_freq,do I pay monthly or yearly
+payment_freq,do I pay yearly or monthly
+payment_freq,does the payment occur frequently
+payment_freq,"out of the year, how many times do I have to pay"
+payment_freq,"out of the whole year, what is the no of times I have to pay"
+payment_freq,what is the no of times I have to pay
+payment_freq,what's the number of times I have to pay
+payment_freq,what is the number of times I have to pay in a year
+payment_freq,how many times do I have to pay in a year
+payment_freq,what is the no of times I have to pay for the whole year
+payment_freq,"in a year, how many times do I have to pay"
+payment_freq,"in a year, how many times do I need to pay"
+payment_freq,what is the required number of times I have to pay in a year
+payment_freq,what are the required no of times I have to pay per year
+payment_freq,"in a year, do you know how many times I need to pay"
+payment_freq,is my payment frequency monthyl or yearly
+payment_freq,is my payment freq monthly or yearlu
+payment_freq,is my payment freq monthly or yearly
+payment_freq,are the payment frequency of my insurance monthly?
+payment_freq,is my payment for the insurance yearly?
+payment_freq,am I paying yearly or monthly for my plans
+payment_freq,then how many times do I have to pay in a year
+payment_freq,how many times should I pay in a year
+payment_freq,what is the frequency of the payment
+payment_freq,what is the frequency of my insurance payment
+payment_freq,do you know what is the frequency of the insruance payment
+payment_freq,what are the number of times required for me to pay
+payment_freq,what are the no of times I have to pay
+payment_freq,"in a year, what is the no of times I have to pay"
+payment_freq,what is the number of times I have to pay in a year?
+payment_freq,what's the no of times I have to pay
+payment_freq,can help me see how many times I have to pay
+payment_freq,can help me confirm the no of times I have to pay per year
+payment_freq,can check what is the payment frequency
+payment_freq,show me the payment frequewncy
+payment_freq,help me check what is my payment frequency
+payment_freq,help me check the frequency of my payment
+payment_freq,how frequent do I have to pay
+payment_freq,do I make payment consistently
+payment_freq,how occasionally do I have to make payment
+payment_mode,what is my payment mode
+payment_mode,what payment mode to pay
+payment_mode,which payment mode
+payment_mode,what payment mode I use
+payment_mode,which did I use to pay with
+payment_mode,what did I use to pay with
+payment_mode,how I pay my plans
+payment_mode,how did I pay for my insurance
+payment_mode,how did I pay my insurance
+payment_mode,how I pay my rider cost
+payment_mode,how did I pay for my rider
+payment_mode,rider payment mode
+payment_mode,insurance payment mode
+payment_mode,what payment option did I opt for
+payment_mode,how did I make my payment
+payment_mode,what payment mode did I use
+payment_mode,wat payment mode did I use
+payment_mode,which type of payment style am I using
+payment_mode,what kind of payments am I using
+payment_mode,what payment method did I use
+payment_mode,what kind of payment method
+payment_mode,payment method?
+payment_mode,payment mode?
+payment_mode,payment style?
+payment_mode,payment mode that I used
+payment_mode,what kind of payments do I use to pay
+payment_mode,what are the payment mode that I used
+payment_mode,which payment mode did I use
+payment_mode,which payment mode did I use to pay
+payment_mode,what kind of payment mode
+payment_mode,what are the ways I can make payment
+payment_mode,my payment mode
+payment_mode,what my payment mode
+payment_mode,what is my payment mode?
+payment_mode,what kind of payment I use to pay
+payment_mode,what are the type of payment that I used
+payment_mode,what payment mode I use to pay
+payment_mode,what payment mode my insurance
+payment_mode,what is the payment mode of my insurance
+payment_mode,what are the modes of payment
+payment_mode,what is the mode of payment I use to pay
+payment_mode,what is the payment mode I use to pay
+payment_mode,what is the payment mode I used
+payment_mode,what mode of payment
+payment_mode,mode of payment
+payment_mode,the payment mode
+payment_mode,payment mode that I pay
+payment_mode,payment mode that I paid using
+payment_mode,payment mode that I use to buy
+payment_mode,what is my payment method
+payment_mode,what is my payment style
+payment_mode,what is my payment approach
+payment_mode,what is my payment technique
+payment_mode,what is the way I always make my payment
+insurer,who is my insurer
+insurer,what is my rider insurer
+insurer,who is my insurance plan insurer
+insurer,what company did I buy insurance from
+insurer,who did I purchase my plans from
+insurer,what is the company name I purchase from
+insurer,what company I purchase from
+insurer,which is the company that I buy from
+insurer,which company did I purchase the plan
+insurer,from which company did I purchase from
+insurer,from which insurer was my plan from
+insurer,from which insurer was the plan
+insurer,where was my plans purchased from
+insurer,where was my plan purchased
+insurer,where were my plans purchased
+insurer,where did I buy my insurance from
+insurer,where was the insurance purchased
+insurer,which company is the plan from
+insurer,which company did I buy the insurance from
+insurer,which insurance company I buy from
+insurer,which insurance company did I buy from
+insurer,from what company I buy
+insurer,from where did I buy my plans
+insurer,from where did I purchase the insurance
+insurer,from what type of company
+insurer,what type of company I use to buy from
+insurer,what type of company did I buy from
+insurer,what company did I purchase from
+insurer,say which company
+insurer,tell me what company
+insurer,company name
+insurer,what insurer name
+insurer,what is the insurer name
+insurer,who is my insurer that I buy from
+insurer,tell me who insuring me
+insurer,say the insurer name
+insurer,insurer's name
+insurer,company's name
+insurer,say the company name
+insurer,tell me the company name
+insurer,tell me my insurer
+insurer,tell me what's the company name
+insurer,tell me what company did I buy from
+insurer,say the name of the company that I bought from
+insurer,say the name of the company that I purchase my insurance from
+insurer,tell the name of the insurer that I buy from
+insurer,tell me my company name
+insurer,who is my insurer that my insurance was bought
+insurer,tell me the insurer name
+insurer,where did I purchase the plans
+insurer,can you tell me where I buy from
+insurer,tell me the company I buy from
+insurer,tell me the insurer of my plans
+insurer,tell me who is the insurer
+insurer,tell me who is my insurer
+insurer,say out the company name
+insurer,say the insurer of my plans
+insurer,name of inusrer
+insurer,name of insurer
+insurer,name of my insurer
+insurer,name of the plan's insurer
+insurer,say the insurance insurer
+insurer,say my plans insurer
+insurer,say my insurance insurer
+insurer,who is my insurer
+insurer,what is my insurer name
+insurer,what is the insurer of my plans
+insurer,who is the insurer of my plan
+insurer,who is the insurer of my insurance
+insurer,who is the insurer of my product
+insurer,give me specific company name
+insurer,give me the specific insurer name
+insurer,can tell me which company
+insurer,can tell me what company
+insurer,from which company did I buy my plas
+insurer,from which company I purchase
+insurer,which company is the plan I buy from
+insurer,which company did I buy the plan from?
+product_name,what are the products I have
+product_name,what product do I have
+product_name,what is my product name
+product_name,what products did I buy
+product_name,which product did I purchase
+product_name,what insurance did I buy
+product_name,what are the insurance that I bought
+product_name,which are the plans I buy
+product_name,what plans I purchased already
+product_name,what are the plans I purchased
+product_name,which is the plan that I purchase
+product_name,what is the name of the plan I ourchased
+product_name,which are the plans that I purchae
+product_name,what product cover me
+product_name,what plans I have
+product_name,which product covering me now
+product_name,which is the product that covers me
+product_name,what is my plan name
+product_name,what's the plan name
+product_name,what are my plans
+product_name,which products I have
+product_name,which plans I have
+product_name,what are the plan that I have now
+product_name,which is the plan that I have now
+product_name,what plan name
+product_name,plan name
+product_name,say the product I have
+product_name,tell me my products
+product_name,tell me the names of my product
+product_name,tell me the name of the product that I bought
+product_name,say the products name
+product_name,say the products' name
+product_name,say the name of the plans that I buy
+product_name,say the insurance name
+product_name,say the insurance name that I buy
+product_name,list out the names of the insurance that I bought
+product_name,say out the names of the insurance
+product_name,list out the insurance that I buy
+product_name,list the insurance plans name
+product_name,list the names of the insurance
+product_name,tell me the name of the product that I buy
+product_name,tell me the plans of the products that I purchased
+product_name,product name
+product_name,products name
+product_name,name of my products
+product_name,name of all my plans
+product_name,name of the plans I have
+product_name,name of the insurance I buy
+product_name,name of the insurance I bought
+product_name,name of insurance that I buy
+product_name,name of the plans that was bought
+product_name,name of the plans that were bought
+product_name,what are the products that I have
+product_name,what are the products I have?
+product_name,what name of the products I have
+product_name,names of the products
+product_name,my products
+product_name,tell me my products
+product_name,what is the plan that Is protecting me right now
+product_name,what insurance do I have
+product_name,what is my product of insurance
+payout_freq,what is my payout freq
+payout_freq,when are my payout given
+payout_freq,how many times a year I receive payout
+payout_freq,when would one receive their payout
+payout_freq,when will I be able to receive my insurance payout
+payout_freq,what is the frequency of my payout
+payout_freq,what are the times of payout given
+payout_freq,how many payout given to me
+payout_freq,what are the usual payout frequency
+payout_freq,what payout frequency
+payout_freq,how many rimes will you pay me
+payout_freq,is the payout for life
+payout_freq,isit for life the payout
+payout_freq,how many times the insurance paying me
+payout_freq,frequency of insruance paying me
+payout_freq,what is the freq of the insurance paying me
+payout_freq,how many times can my plans pay me
+payout_freq,what are the amount of itmes insurance pay me
+payout_freq,is my pay out for life
+payout_freq,payout hoe many times to me
+payout_freq,how many times will my pay out be
+payout_freq,what is the payout freq
+payout_freq,usually when will have payout
+payout_freq,what is the payout frequency
+payout_freq,frequency of the payouts
+payout_freq,frequency of the pay out
+payout_freq,frequency of the pay outs
+payout_freq,what is the frequency of payout
+payout_freq,what is the frequency of the pay out
+payout_freq,what frequency will the payouts be paid
+payout_freq,what frequency will u be paying me
+payout_freq,what frequency is the payout supposed to be
+payout_freq,what frequency will the payouts be
+payout_freq,the frequency of the payouts
+payout_freq,tell me the payout frequency
+payout_freq,tell me the pay out frequency say the frequency of my payout
+payout_freq,tell me the frequency of the payouts
+payout_freq,tell me what the frequency of the payout is
+payout_freq,what is the payout frequency?
+payout_freq,what payout frequency do I receive
+payout_freq,the frequency of my payouts
+payout_freq,what insurance payout frequency are you paying me
+payout_freq,frequency of the payouts that I have
+payout_freq,frequency of pay outs that is paying me
+payout_freq,frequency of my pay out
+payout_freq,times of payout paying me
+payout_freq,times of the payout
+payout_freq,number of times insurance paying me
+payout_freq,times of the insurance plan paying me in a year
+payout_freq,the number of times your insurance paying me
+payout_freq,the number of times the insurance is paying me
+payout_freq,the number of times insurance will pay me
+payout_freq,the number of times insurance is paying me
+payout_freq,the number of times the payout pay me
+payout_freq,the no of times I get the payout
+payout_freq,number of times payout is given to me
+payout_freq,no of times payout give to me
+payout_freq,times of payout in a year
+payout_freq,the no of times a payout in a year
+payout_freq,times of payout I have in a year
+payout_freq,times of pay out I have
+payout_freq,usually when payout come
+payout_freq,what is the usual frequency of payout
+payout_freq,when is the payout
+payout_freq,when are the payouts usually
+payout_freq,when will I receive payout
+coverage_term,what is my insurance coverage term
+coverage_term,how long does my insurance cover me
+coverage_term,how long is my plan covering me
+coverage_term,duration of my plans covering me
+coverage_term,what is the duration that my product can cover me
+coverage_term,what is the duration that insurance is covering me
+coverage_term,for how long can the insurance protect me
+coverage_term,for how long is the plan covering me
+coverage_term,how long my plans xovering me
+coverage_term,how long is my plan gojng to cover me
+coverage_term,how long can my plan cover
+coverage_term,how long my plan covering
+coverage_term,how many days my plans cover
+coverage_term,how many months my insurance cover
+coverage_term,coverage term of insruance
+coverage_term,duration of coverage
+coverage_term,period of coverage
+coverage_term,what are the dates my insurance begin and end
+coverage_term,when will my insurance end
+coverage_term,ending date of my plans
+coverage_term,end date of insurance
+coverage_term,start date of insurance
+coverage_term,duration the plan can cover me
+coverage_term,what is the duration my plan is covering me
+coverage_term,duraiton of the insurance covering me
+coverage_term,what is the duration my plan is cover
+coverage_term,when does my insurance start
+coverage_term,what is the date the insurance will start
+coverage_term,when is the ending date for my insruance
+coverage_term,date that the plan cover me
+coverage_term,how many years my insurance covering me
+coverage_term,period of time the insurance cover me
+coverage_term,the period of covering me
+coverage_term,when my insurance end
+coverage_term,when does my insurance expire
+coverage_term,end date for my insurance
+coverage_term,when did my insruance started
+coverage_term,expiry date for my plan?
+coverage_term,the duration of my plan is what
+coverage_term,insurance date incepted
+coverage_term,when does my insurance date commence
+coverage_term,insurnace coering me for how long
+coverage_term,insurance covering me for how long
+coverage_term,how long is my insurance covering me for
+coverage_term,how long will my plans cover me
+coverage_term,how long is my insurance protecting me
+coverage_term,for how long insurance going to protect ?
+coverage_term,until when will my insurance last
+coverage_term,how long will my insurance last
+coverage_term,until when will I be covered by insurance
+coverage_term,how long will I be protected by my insurance
+coverage_term,how long will i be insured
+coverage_term,what is the time span of my insurance
+coverage_term,time span of the insurance covering me
+coverage_term,time of the insurance covering me
+coverage_term,time span of the insurance plan that is covering me
+coverage_term,what is the time span of the product
+coverage_term,how long does my insurance last
+coverage_term,what is my insurance period
+policy_type,what is my policy type
+policy_type,what type of policy I have
+policy_type,which type of insuracne is covering me
+policy_type,what type of product I have
+policy_type,policy type of the products I have
+policy_type,policy type of the insurance that is covering me
+policy_type,list the types of insurance covering me
+policy_type,list the type of insurance plans
+policy_type,list out the insurance plan type
+policy_type,list the insurance plan type
+policy_type,what kind of insurance plan I have
+policy_type,what kind of insurance that I buy
+policy_type,types of insurance
+policy_type,types of plans
+policy_type,what are the types of plans
+policy_type,what type of plans
+policy_type,what types of plan
+policy_type,what insurance type
+policy_type,what are the insurance type
+policy_type,what insurance type I buy
+policy_type,which type I buy
+policy_type,which type of insurance did I buy
+policy_type,the type of plans that I buy
+policy_type,the type of plans bought
+policy_type,what are the type of plans that I bought
+policy_type,type of plans bought
+policy_type,type of insurance bought
+policy_type,type of insurance purchased
+policy_type,type of insurance plans purchased
+policy_type,what type of insurance plans was purchased
+policy_type,what type of insurance plans were bought
+policy_type,what type of insurance product I buy
+policy_type,what policy type did I buy
+policy_type,what insurance policy I buy
+policy_type,which type of policy did I purchase
+policy_type,which type of policy plan was bought
+policy_type,what type of policy plan I have
+policy_type,what type of product I have now
+policy_type,what are the types of products
+policy_type,what type of plans I had
+policy_type,which type of plans
+policy_type,what are the types of plans I have now
+policy_type,what type of plans do I have
+policy_type,what kind of plans
+policy_type,what kind of insurance is mine
+policy_type,which type I have now
+policy_type,which is the type of product covering me now
+policy_type,what is the type of insurance plans I have
+policy_type,which type of product did I buy
+policy_type,which type of insurance I buy
+policy_type,what is the type of product
+policy_type,what are the type of product
+policy_type,I buy which type policy product
+policy_type,I buy whiuch type of insurance
+policy_type,which policy type I habe
+policy_type,what is the type of insurance I have
+life_assured,who is the life assured for my insurance
+life_assured,which did I assure for my isurance
+life_assured,who did I assign as my life assured
+life_assured,who did I assure for the insurance I bought
+life_assured,who did I assign my insurance to cover
+life_assured,what is the person that I assign my insurance to protect
+life_assured,which person I assigned for my insurance to cover
+life_assured,who did I assign my plans to protect
+life_assured,who is the assigned person for my insurance
+life_assured,to whom did I assign my insurance protection to
+life_assured,to who did I assign my plans to cover
+life_assured,who did I choose to protect using the insurance I bought
+life_assured,who I chose to cover using plans that I buy
+life_assured,which person is the assigned to be assured from the inrsurance
+life_assured,what are the people assured
+life_assured,who am I assuring now
+life_assured,who is the assured person of my insurance
+life_assured,who is the insurance assuring now
+life_assured,who is tge person assured for the insurance
+life_assured,the life assured is myself or who
+life_assured,the life assured of insurance is covering me or who
+life_assured,who the life assured for the insurance that I buy
+life_assured,did I assign the life assured to myself or other people
+life_assured,did I assign myself to be the life assured or who else
+life_assured,did I assign other people to be the life assured
+life_assured,who is the person I assigned
+life_assured,the life assured I assign who
+life_assured,the life assign who I assign
+life_assured,the life assured who did I assign
+life_assured,who did I assign the life assured to be
+life_assured,the life assured is who
+life_assured,the life assured I assign myself?
+life_assured,did I assign the life assured to be me
+life_assured,did the life assured state me
+life_assured,is the insurance assuring me
+life_assured,is my insurance assuring me
+life_assured,are my plans assuring me
+life_assured,are the products assuring me
+life_assured,are my insurance plans assuring me
+life_assured,did the life assured state my name
+life_assured,was the person assigned myself or other
+life_assured,was the person that I assigned me?
+life_assured,did I assign myself?
+life_assured,who are the person assured
+life_assured,who is assured for my policy
+life_assured,who is assured for this insurance
+life_assured,who is the one that is assured for this policy?
+life_assured,whose life is covered in my insurance contract
+life_assured,person that I choose to cover
+life_assured,person that I choose to assign
+life_assured,person that was assigned to be life assured
+life_assured,person that was assigned in my insurance
+life_assured,person that was assigned to cover
+life_assured,persons that are covered by my plans
+life_assured,persons that are covered by my insurance
+life_assured,persons who are covered by my insurance
+payment_duration,when does payment start
+payment_duration,when do I have to start paying
+payment_duration,what is the payment date
+payment_duration,when do I stop paying
+payment_duration,when can I stop paying
+payment_duration,when does my payment end
+payment_duration,what is my payment duration
+payment_duration,what's my payment duration
+payment_duration,payment duration of my plans
+payment_duration,when does payment for insurance end
+payment_duration,what is the end date for my payment
+payment_duration,what is the starting date for paying
+payment_duration,when do I have to start paying the insruance
+payment_duration,when can my payment stop
+payment_duration,when does my payment stop
+payment_duration,when does the paying commence
+payment_duration,when does the payment commence
+payment_duration,when is the payment going to end
+payment_duration,what is the date my payment end
+payment_duration,what date my payment stop
+payment_duration,what is the period of paying
+payment_duration,what is the duration I have to pay
+payment_duration,when is my last payment
+payment_duration,when's the last payment
+payment_duration,when is the last payment of my inusrance
+payment_duration,what is the last payment date?
+payment_duration,what's the last payment
+payment_duration,duration of payment?
+payment_duration,what is the duration of paying
+payment_duration,what is the payment period
+payment_duration,what is the time span of my payment
+payment_duration,when do I start and stop paying
+payment_duration,payment starting date
+payment_duration,what is the payment start date
+payment_duration,what is the payment starting date
+payment_duration,when will the payment end
+payment_duration,what is the payment end date
+payment_duration,when does payment end
+payment_duration,when does my payment start
+payment_duration,when will the insurance payment start
+payment_duration,when does the insurance payment start
+payment_duration,when does the plans payment start
+payment_duration,when does the payment of plans start
+payment_duration,when will the payment of my plans end
+payment_duration,when will the insurance payment end?
+payment_duration,when would the insurance payment end
+payment_duration,when would the payment end
+payment_duration,when would the payment start
+payment_duration,when is the insurance payment going to start
+payment_duration,when will my payment end
+payment_duration,when will my payment start
+payment_duration,when will the payment be starting
+payment_duration,when should I start paying
+payment_duration,when should I start my payment
+payment_duration,when will my payment of insurance end
+payment_duration,when can I stop paying for the insurance
+payment_duration,when can I stop paying for the plans
+payment_duration,when can the payment end
+payment_duration,when is my payment going to end
+payment_duration,when will the payment end?
+payment_duration,would the payment be ending soon
+payment_duration,would I have to pay starting tomorrow
+payment_duration,do I have to pay next week
+payment_duration,do I have to pay starting from tomorrow?
+payment_duration,how long is my payment duration
+payment_duration,how long is the payment duration going to be
+payment_duration,how long is the payment going to be
+payment_duration,duration of my payment
+payment_duration,what is the duration of my payment
+payment_duration,is the duration of my payment going to be very long
+payment_duration,how long do I have to pay
+payment_duration,when can I stop paying
+payment_duration,when must I start paying
+payment_duration,when will be the starting date
+payment_duration,what is the start date for payment
+payment_duration,what is the payment's end date
+payment_duration,is my payment going to stop soon
+payment_duration,when is a good day to pay
+payment_duration,am I able to start paying soon
+payment_duration,is my payment duration going to end soon
+payment_duration,when is the payment ending
+payment_duration,when will my payment be ending
+payment_duration,when is the payment going to start?
+payment_duration,when do I begin making payments
+payment_duration,when do I end my payments
+payment_duration,start date and end date of my insurance period
+claimable,I have early critical illness. Can claim? 
+claimable,can I claim if I am dying soon
+claimable,is it claimable if I have critical illness
+claimable,"if I have critical illness, can I claim"
+claimable,long term care can claim or not
+claimable,if someone dying how much can I claim
+claimable,if I claim for illness how much you pay me?
+claimable,involved in accident can claim?
+claimable,can I claim if I have accident
+claimable,perm disability claim how much
+claimable,how much can I claim if I have permanent disability
+claimable,if I go hospital can claim how much
+claimable,how much can I claim if have accident
+claimable,accident happern to me can claim how much
+claimable,disability income can cliam how much
+claimable,amount I can claim if got personal accident
+claimable,amt to be paid to me if I have illness
+claimable,how to know if it is claimable or not
+claimable,if I have cancer can claim?
+claimable,how to get claims
+claimable,after I get into accident can claim
+claimable,if soemone in my family die can claim?
+claimable,how to claim if my family get accident
+claimable,if the person that is insured get ltc how?
+claimable,if get major illness can claim?
+claimable,if get cancer can claim?
+claimable,if got terminal illness can claim
+claimable,if got tpd can claim?
+claimable,if have ltc can claim
+claimable,can I claim if I have early ci
+claimable,can I claim if have tpd
+claimable,total permanent disability can claim how much
+claimable,how much can I claim if I have tpd
+claimable,total pd can claim?
+claimable,what is my claim option if my family members have an accident
+claimable,can I make a claim if my family have accident
+claimable,if my family member got into accident can claim
+claimable,is being in accident claimable
+claimable,how do I get a claim for permanent disability or terminal illness
+claimable,how do I make a cliam if I get into accident
+claimable,how do I make a claim if there was accident involved
+claimable,if I am not injured during accident still can claim
+claimable,what happens if I want to claim during accident
+claimable,how do I get a claim for accident
+claimable,I want to claim for total permanent disability
+claimable,how much will I get to claim for the accident
+claimable,how much will I get to claim for total permanent disability
+claimable,who can help me claim if I have tpd
+claimable,how does claiming work for ltc
+claimable,how does claiming work for cancer
+claimable,cancer patient can claim how much
+claimable,if I just got diagnosed with cancer can claim
+claimable,how will I claim if someone has cancer or early ci
+claimable,critical illness is claimable?
+claimable,for having critical illness can claim or not
+claimable,do I have a chance to claim for ci
+claimable,would it be possible to claim for ci
+claimable,would it be possible to claim for accident
+claimable,is this possible to be claimed for if I have tpd
+claimable,terminal illness can claim or not
+claimable,if I get cancer then can claim?
+claimable,if someone get into accident can claim
+claimable,if I got cancer can claim
+claimable,if someone beloved to me get cancer can claim
+claimable,if my assured person get cancer can claim
+claimable,if the person that I assured get into accident can claim
+claimable,if the person assured got tpd how to claim
+claimable,how much would the person get to claim if have accident
+claimable,how much would I get to claim if I have tpd
+claimable,is critical illness claimable
+claimable,does having ci allow me to claim
+claimable,is critical illness able to be claimed
+claimable,can I get a claim if have ci
+claimable,does having critical illness let me claim
+claimable,"if I choke on fishball then almost die, can claim"
+claimable,"if got fish bone stuck in throat and consulted doctor, can claim"
+claimable,"if I am stung by bee, can claim?"
+claimable,can I submit a claim if I was bitten by a dog
+claimable,if dog come bite me will I be able to claim
+claimable,am I able to claim if I was stung by a bee?
+claimable,would I be able to claim if I got stung by a bee
+claimable,"if I am stung by a bee, can I submit a claim?"
+claimable,"I a bitten by a snake, so do I get to claim"
+claimable,will I get to claim if bitten by snake
+claimable,"if I am bitten by a dog, can I submit a claim?"
+claimable,"if I am injured in natural disaster, can my fam submit claim for me"
+claimable,"if I get injured in natural disaster, can I submit a claim"
+claimable,"if I meet with an accident 1 day before my policy cancellation date, can I submit a claim"
+claimable,"if I meet with an accident and would like to consult a specialist, do I need a referral letter before claiming for the specialist consultation"
+claimable,do I need a referral letter before I get to claim for specialist consultation
+claimable,do I need to have referral letter before claiming for specialist consultation if I meet with an accident
+claimable,"if I have follow-up consultation, can I submit my personal accident claims after all my consultations are completed?"
+claimable,"if I have follow up consultation, can submit personal accident claims after all my consultations complete?"
+claimable,"if my leg is amputated as a result of accident, can I claim for prosthetic leg and rental of wheelchair"
+claimable,can claim if I want to rent wheelchair if my leg was amputated due to accident
+claimable,can I claim for a consultation for tcm practitioner for an accidental injury
+claimable,can claim if I went to consult a traditional chinese medicine practitioner for accidental injury
+claimable,can I claim for a consultation for traditional chinese medicine (tcm) practitioner for an accidental injury
+claimable,would I be able to claim if I got bitten by a dog
+claimable,will I get to claim if bitten by a dog
+claimable,would I be able to claim if I got bitten by a snake
+claimable,will I get to claim if stung by a bee
+claimable,will get to claim if stung by bee?
+claimable,can claim if I got stung by bee
+claimable,can claim if I got bitten by a dog?
+claimable,can claim if I got bitten by snake?
+claimable,"help I got bitten by a dog how to claim if possible"""
+claimable,"help, I got stung by snake still can claim"
+claimable,I need to find out if I am allowed to claim if have accident happen to me
+claimable,I need to see if my plan let me claim if got bitten by dog
+claimable,need to find out how to claim if I amputate my leg
+claimable,if I get critical illness can claim
+claimable,if I got diagnosed with stage 1 cancer can claim
+claimable,what stage of cancer cannot claim
+claimable,got stage 4 cancer can claim
+claimable,if get stage four cancer can claim
+claimable,would it be claimable if I need to amputate my hand
+claimable,"I am a ci client, would I be able to claim"
+claimable,"I just got diagnosed with some critical illness, how do I claim if possible"""
+claimable,isit possible for me to claim if I have ci
+claimable,"if I am a ci patient, can claim?"
+claimable,early critical illness can claim
+claimable,if get early critical illness can claim
+claimable,"I went to doctor just now and was diagnosed with early ci, can claim"
+claimable,am I able to claim if I have early ci
+claimable,how to proceed with claiming if have early ci
+claimable,if one was diagnosed with early stage cancer how does one claim
+claimable,can I claim if I was diagnosed with cancer stage 3
+claimable,got chance to claim when have cancer? How?
+claimable,how to claim if I get accident
+claimable,total permanent disability can claim or not
+claimable,if get tpd can claim
+claimable,if my fam member got tpd can claim
+claimable,still can claim if I see doctor and they say I have tpd but my plan ending next day
+claimable,"if I got diagnosed with tpd 1 day before my policy cancellation date, can I submit a claim"
+claimable,if my plan ending soon how to claim if have tpd
+claimable,if doctor say I got cancer but my policy cancellation date is tomorrow still can claim
+claimable,early ci can claim
+claimable,tpd can claim
+claimable,major ci can claim
+claimable,is it allowed to claim if I got into an accident?
+claimable,"during a situation where I have to amputate my leg, would it be possible for me to claim"
