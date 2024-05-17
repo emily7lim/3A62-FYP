@@ -1,17 +1,17 @@
 # 3A62-FYP
 
-### Frontend
+Completed on March 2022
+
+## Frontend
 Zircon
 
 @emily7lim
 
 Nurrin
 
-### Backend
+## Backend
 @benjamincheong
 
-### Machine Learning
+## Machine Learning
 @emily7lim
 
-
-Completed on March 2022
