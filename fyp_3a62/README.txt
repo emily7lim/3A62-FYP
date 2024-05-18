@@ -15,8 +15,7 @@ Getting Started
 
 - if Execution Error during starting of env
 
-    run get-ExecutionPolicy to check if it is restricted
-    run Set-ExecutionPolicy Unrestricted -Scope Process
+    Set-ExecutionPolicy Unrestricted -Scope Process
 
 - Start the Python virtual environment.
 
